@@ -31,7 +31,7 @@
     "dev": "vite",
     "postinstall": "node postinstall.js",
     "prepare": "node prepare.js",
-    "serve": "vite preview"
+    "serve": "vite"
   },
   "version": "0.3.10"
 }
